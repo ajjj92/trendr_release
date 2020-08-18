@@ -74,37 +74,36 @@ class Ultwitter extends React.Component {
 
 		return (
 			<div className='col s12'>
-				<form onSubmit={this.handleSubmit} autoComplete='off'>
-					<div className='input-field'>
-						<i className='material-icons prefix'>search</i>
-						<input id='twitter-autocomplete' type='text' className='autocomplete' name='country'
-							required />
-					</div>
-				</form>
-				<h4 className='center'> Tweets in {this.state.activeCountry} </h4>
-				<ul className='collection with-header' id='scrollcontainer'>
-					<li className='collection-header'>
-						{this.state.twitData.map((item, index) => {
-							return <div className='collection-item' key={index}>
-								<div> 
-									<h5>{item.title} </h5>
-								</div>
-								<div> 
-								<i className='tiny material-icons prefix'>send</i>
-									{'    '+item.hits}
-									<a href={item.url} className='secondary-content' target='blank'>
-										<i className='small material-icons'> insert_link </i>
-									</a>
-								</div>
+			<form onSubmit={this.handleSubmit} autoComplete='off'>
+				<div className='input-field'>
+					<i className='material-icons prefix'>search</i>
+					<input id='twitter-autocomplete' type='text' className='autocomplete' name='country'
+						required />
+				</div>
+			</form>
+			<h4 className='center'> Tweets in {this.state.activeCountry} </h4>
+			<ul className='collection with-header' id='scrollcontainer'>
+				<li className='collection-header'>
+					{this.state.twitData.length >0
+					? this.state.twitData.map((item, index) => {
+						return <div className='collection-item' key={index}>
+							<div> 
+								<h5>{item.title} </h5>
 							</div>
-						})}
-
-					</li>
-				</ul>
-
-
-
-			</div>
+							<div> 
+							<i className='tiny material-icons prefix'>send</i>
+								{'    '+item.hits}
+								<a href={item.url} className='secondary-content' target='blank'>
+									<i className='small material-icons'> insert_link </i>
+								</a>
+							</div>
+						</div>
+					})
+				: <h5>No tweet data available</h5>
+				}
+				</li>
+			</ul>
+		</div>
 		);
 	}
 

@@ -118,7 +118,7 @@ var Ultwitter = function (_React$Component) {
 					React.createElement(
 						"li",
 						{ className: "collection-header" },
-						this.state.twitData.map(function (item, index) {
+						this.state.twitData.length > 0 ? this.state.twitData.map(function (item, index) {
 							return React.createElement(
 								"div",
 								{ className: "collection-item", key: index },
@@ -152,7 +152,11 @@ var Ultwitter = function (_React$Component) {
 									)
 								)
 							);
-						})
+						}) : React.createElement(
+							"h5",
+							null,
+							"No tweet data available"
+						)
 					)
 				)
 			);

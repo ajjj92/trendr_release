@@ -127,7 +127,7 @@ var UlGoogle = function (_React$Component) {
                     React.createElement(
                         "li",
                         { className: "collection-header" },
-                        this.state.countries.map(function (item, index) {
+                        this.state.countries.length > 0 ? this.state.countries.map(function (item, index) {
                             return React.createElement(
                                 "div",
                                 { className: "collection-item", key: index },
@@ -140,7 +140,7 @@ var UlGoogle = function (_React$Component) {
                                         React.createElement(
                                             "a",
                                             { href: item.url, target: "blank" },
-                                            React.createElement("img", { src: item.pic, className: "responsive-img circle" })
+                                            React.createElement("img", { src: item.pic, className: "responsive-img circle", target: "_blank" })
                                         )
                                     ),
                                     React.createElement(
@@ -177,7 +177,11 @@ var UlGoogle = function (_React$Component) {
                                     )
                                 )
                             );
-                        })
+                        }) : React.createElement(
+                            "h5",
+                            null,
+                            "No trending data available"
+                        )
                     )
                 )
             );
