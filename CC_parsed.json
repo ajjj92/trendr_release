@@ -1,0 +1,1006 @@
+{
+	"Canada": {
+		"Code1": "CA",
+		"woeid": 23424775
+	},
+	"United Kingdom": {
+		"Code1": "GB",
+		"woeid": 23424975
+	},
+	"Dominican Republic": {
+		"Code1": "DO",
+		"woeid": 23424800
+	},
+	"Guatemala": {
+		"Code1": "GT",
+		"woeid": 23424834
+	},
+	"Mexico": {
+		"Code1": "MX",
+		"woeid": 23424900
+	},
+	"Argentina": {
+		"Code1": "AR",
+		"woeid": 23424747
+	},
+	"Chile": {
+		"Code1": "CL",
+		"woeid": 23424782
+	},
+	"Colombia": {
+		"Code1": "CO",
+		"woeid": 23424787
+	},
+	"Ecuador": {
+		"Code1": "EC",
+		"woeid": 23424801
+	},
+	"Venezuela": {
+		"Code1": "VE",
+		"woeid": 23424982
+	},
+	"Peru": {
+		"Code1": "PE",
+		"woeid": 23424919
+	},
+	"Brazil": {
+		"Code1": "BR",
+		"woeid": 23424768
+	},
+	"Poland": {
+		"Code1": "PL",
+		"woeid": 23424923
+	},
+	"Austria": {
+		"Code1": "AT",
+		"woeid": 23424750
+	},
+	"Ireland": {
+		"Code1": "IE",
+		"woeid": 23424803
+	},
+	"France": {
+		"Code1": "FR",
+		"woeid": 23424819
+	},
+	"Germany": {
+		"Code1": "DE",
+		"woeid": 23424829
+	},
+	"Italy": {
+		"Code1": "IT",
+		"woeid": 23424853
+	},
+	"Netherlands": {
+		"Code1": "NL",
+		"woeid": 23424909
+	},
+	"Spain": {
+		"Code1": "ES",
+		"woeid": 23424950
+	},
+	"Switzerland": {
+		"Code1": "CH",
+		"woeid": 23424957
+	},
+	"Belarus": {
+		"Code1": "BY",
+		"woeid": 23424765
+	},
+	"Latvia": {
+		"Code1": "LV",
+		"woeid": 23424874
+	},
+	"Norway": {
+		"Code1": "NO",
+		"woeid": 23424910
+	},
+	"Sweden": {
+		"Code1": "SE",
+		"woeid": 23424954
+	},
+	"Ukraine": {
+		"Code1": "UA",
+		"woeid": 23424976
+	},
+	"Greece": {
+		"Code1": "GR",
+		"woeid": 23424833
+	},
+	"Indonesia": {
+		"Code1": "ID",
+		"woeid": 23424846
+	},
+	"Singapore": {
+		"Code1": "SG",
+		"woeid": 23424948
+	},
+	"Australia": {
+		"Code1": "AU",
+		"woeid": 23424748
+	},
+	"Japan": {
+		"Code1": "JP",
+		"woeid": 23424856
+	},
+	"Korea": {
+		"Code1": "KR",
+		"woeid": 23424868
+	},
+	"Malaysia": {
+		"Code1": "MY",
+		"woeid": 23424901
+	},
+	"Philippines": {
+		"Code1": "PH",
+		"woeid": 23424934
+	},
+	"Thailand": {
+		"Code1": "TH",
+		"woeid": 23424960
+	},
+	"Vietnam": {
+		"Code1": "VN",
+		"woeid": 23424984
+	},
+	"Algeria": {
+		"Code1": "DZ",
+		"woeid": 23424740
+	},
+	"Ghana": {
+		"Code1": "GH",
+		"woeid": 23424824
+	},
+	"Nigeria": {
+		"Code1": "NG",
+		"woeid": 23424908
+	},
+	"Egypt": {
+		"Code1": "EG",
+		"woeid": 23424802
+	},
+	"Kenya": {
+		"Code1": "KE",
+		"woeid": 23424863
+	},
+	"South Africa": {
+		"Code1": "ZA",
+		"woeid": 23424942
+	},
+	"Saudi Arabia": {
+		"Code1": "SA",
+		"woeid": 23424938
+	},
+	"United Arab Emirates": {
+		"Code1": "AE",
+		"woeid": 23424738
+	},
+	"Israel": {
+		"Code1": "IL",
+		"woeid": 23424852
+	},
+	"Jordan": {
+		"Code1": "JO",
+		"woeid": 23424860
+	},
+	"Russia": {
+		"Code1": "RU",
+		"woeid": 23424936
+	},
+	"Pakistan": {
+		"Code1": "PK",
+		"woeid": 23424922
+	},
+	"Oman": {
+		"Code1": "OM",
+		"woeid": 23424898
+	},
+	"India": {
+		"Code1": "IN",
+		"woeid": 23424848
+	},
+	"Turkey": {
+		"Code1": "TR",
+		"woeid": 23424969
+	},
+	"New Zealand": {
+		"Code1": "NZ",
+		"woeid": 23424916
+	},
+	"United States": {
+		"Code1": "US",
+		"woeid": 23424977
+	},
+	"Bahrain": {
+		"Code1": "BH",
+		"woeid": 23424753
+	},
+	"Belgium": {
+		"Code1": "BE",
+		"woeid": 23424757
+	},
+	"Denmark": {
+		"Code1": "DK",
+		"woeid": 23424796
+	},
+	"Kuwait": {
+		"Code1": "KW",
+		"woeid": 23424870
+	},
+	"Lebanon": {
+		"Code1": "LB",
+		"woeid": 23424873
+	},
+	"Panama": {
+		"Code1": "PA",
+		"woeid": 23424924
+	},
+	"Portugal": {
+		"Code1": "PT",
+		"woeid": 23424925
+	},
+	"Qatar": {
+		"Code1": "QA",
+		"woeid": 23424930
+	},
+	"Puerto Rico": {
+		"Code1": "PR",
+		"woeid": 23424935
+	},
+	"Afghanistan": {
+		"Code1": "AF",
+		"woeid": 23424739
+	},
+	"Åland Islands": {
+		"Code1": "AX",
+		"woeid": 12577865
+	},
+	"Albania": {
+		"Code1": "AL",
+		"woeid": 23424742
+	},
+	"American Samoa": {
+		"Code1": "AS",
+		"woeid": 23424746
+	},
+	"Andorra": {
+		"Code1": "AD",
+		"woeid": 23424744
+	},
+	"Angola": {
+		"Code1": "AO",
+		"woeid": 23424745
+	},
+	"Anguilla": {
+		"Code1": "AI",
+		"woeid": 23424751
+	},
+	"Antarctica": {
+		"Code1": "AQ",
+		"woeid": 28289409
+	},
+	"Antigua & Barbuda": {
+		"Code1": "AG",
+		"woeid": 23424737
+	},
+	"Armenia": {
+		"Code1": "AM",
+		"woeid": 23424743
+	},
+	"Aruba": {
+		"Code1": "AW",
+		"woeid": 23424736
+	},
+	"Azerbaijan": {
+		"Code1": "AZ",
+		"woeid": 23424741
+	},
+	"Bahamas": {
+		"Code1": "BS",
+		"woeid": 23424758
+	},
+	"Bangladesh": {
+		"Code1": "BD",
+		"woeid": 23424759
+	},
+	"Barbados": {
+		"Code1": "BB",
+		"woeid": 23424754
+	},
+	"Belize": {
+		"Code1": "BZ",
+		"woeid": 23424760
+	},
+	"Benin": {
+		"Code1": "BJ",
+		"woeid": 23424764
+	},
+	"Bermuda": {
+		"Code1": "BM",
+		"woeid": 23424756
+	},
+	"Bhutan": {
+		"Code1": "BT",
+		"woeid": 23424770
+	},
+	"Bolivia": {
+		"Code1": "BO",
+		"woeid": 23424762
+	},
+	"Bosnia & Herzegovina": {
+		"Code1": "BA",
+		"woeid": 23424761
+	},
+	"Botswana": {
+		"Code1": "BW",
+		"woeid": 23424755
+	},
+	"Bouvet Island": {
+		"Code1": "BV",
+		"woeid": 28289410
+	},
+	"British Indian Ocean Territory": {
+		"Code1": "IO",
+		"woeid": 23424849
+	},
+	"British Virgin Islands": {
+		"Code1": "VG",
+		"woeid": 23424983
+	},
+	"Brunei": {
+		"Code1": "BN",
+		"woeid": 23424773
+	},
+	"Bulgaria": {
+		"Code1": "BG",
+		"woeid": 23424771
+	},
+	"Burkina Faso": {
+		"Code1": "BF",
+		"woeid": 23424978
+	},
+	"Burundi": {
+		"Code1": "BI",
+		"woeid": 23424774
+	},
+	"Cambodia": {
+		"Code1": "KH",
+		"woeid": 23424776
+	},
+	"Cameroon": {
+		"Code1": "CM",
+		"woeid": 23424785
+	},
+	"Cape Verde": {
+		"Code1": "CV",
+		"woeid": 23424794
+	},
+	"Caribbean Netherlands": {
+		"Code1": "BQ",
+		"woeid": 56558056
+	},
+	"Cayman Islands": {
+		"Code1": "KY",
+		"woeid": 23424783
+	},
+	"Central African Republic": {
+		"Code1": "CF",
+		"woeid": 23424792
+	},
+	"Chad": {
+		"Code1": "TD",
+		"woeid": 23424777
+	},
+	"China": {
+		"Code1": "CH",
+		"woeid": 23424781
+	},
+	"Christmas Island": {
+		"Code1": "CX",
+		"woeid": 23424869
+	},
+	"Cocos (Keeling) Islands": {
+		"Code1": "CC",
+		"woeid": 23424784
+	},
+	"Comoros": {
+		"Code1": "KM",
+		"woeid": 23424786
+	},
+	"Congo - Brazzaville": {
+		"Code1": "CG",
+		"woeid": 23424779
+	},
+	"Congo - Kinshasa": {
+		"Code1": "CD",
+		"woeid": 23424780
+	},
+	"Cook Islands": {
+		"Code1": "CK",
+		"woeid": 23424795
+	},
+	"Costa Rica": {
+		"Code1": "CR",
+		"woeid": 23424791
+	},
+	"Côte d’Ivoire": {
+		"Code1": "CI",
+		"woeid": 23424854
+	},
+	"Croatia": {
+		"Code1": "HR",
+		"woeid": 23424843
+	},
+	"Cuba": {
+		"Code1": "CU",
+		"woeid": 23424793
+	},
+	"Curaçao": {
+		"Code1": "CW",
+		"woeid": 56558057
+	},
+	"Cyprus": {
+		"Code1": "CY",
+		"woeid": 26812346
+	},
+	"Czechia": {
+		"Code1": "CZ",
+		"woeid": 23424810
+	},
+	"Djibouti": {
+		"Code1": "DJ",
+		"woeid": 23424797
+	},
+	"Dominica": {
+		"Code1": "DM",
+		"woeid": 23424798
+	},
+	"El Salvador": {
+		"Code1": "SV",
+		"woeid": 23424807
+	},
+	"Equatorial Guinea": {
+		"Code1": "GQ",
+		"woeid": 23424804
+	},
+	"Eritrea": {
+		"Code1": "ER",
+		"woeid": 23424806
+	},
+	"Estonia": {
+		"Code1": "EE",
+		"woeid": 23424805
+	},
+	"Eswatini": {
+		"Code1": "SZ",
+		"woeid": 23424993
+	},
+	"Ethiopia": {
+		"Code1": "ET",
+		"woeid": 23424808
+	},
+	"Falkland Islands (Islas Malvinas)": {
+		"Code1": "FK",
+		"woeid": 23424814
+	},
+	"Faroe Islands": {
+		"Code1": "FO",
+		"woeid": 23424816
+	},
+	"Fiji": {
+		"Code1": "FJ",
+		"woeid": 23424813
+	},
+	"Finland": {
+		"Code1": "FI",
+		"woeid": 23424812
+	},
+	"French Guiana": {
+		"Code1": "GF",
+		"woeid": 23424811
+	},
+	"French Polynesia": {
+		"Code1": "PF",
+		"woeid": 23424817
+	},
+	"French Southern Territories": {
+		"Code1": "TF",
+		"woeid": 28289406
+	},
+	"Gabon": {
+		"Code1": "GA",
+		"woeid": 23424822
+	},
+	"Gambia": {
+		"Code1": "GM",
+		"woeid": 23424821
+	},
+	"Georgia": {
+		"Code1": "GE",
+		"woeid": 23424823
+	},
+	"Gibraltar": {
+		"Code1": "GI",
+		"woeid": 23424825
+	},
+	"Greenland": {
+		"Code1": "GL",
+		"woeid": 23424828
+	},
+	"Grenada": {
+		"Code1": "GD",
+		"woeid": 23424826
+	},
+	"Guadeloupe": {
+		"Code1": "GP",
+		"woeid": 23424831
+	},
+	"Guam": {
+		"Code1": "GU",
+		"woeid": 23424832
+	},
+	"Guernsey": {
+		"Code1": "GG",
+		"woeid": 23424827
+	},
+	"Guinea": {
+		"Code1": "GN",
+		"woeid": 23424835
+	},
+	"Guinea-Bissau": {
+		"Code1": "GW",
+		"woeid": 23424929
+	},
+	"Guyana": {
+		"Code1": "GY",
+		"woeid": 23424836
+	},
+	"Haiti": {
+		"Code1": "HT",
+		"woeid": 23424839
+	},
+	"Heard & McDonald Islands": {
+		"Code1": "HM",
+		"woeid": 28289411
+	},
+	"Honduras": {
+		"Code1": "HN",
+		"woeid": 23424841
+	},
+	"Hong Kong": {
+		"Code1": "HK",
+		"woeid": 24865698
+	},
+	"Hungary": {
+		"Code1": "HU",
+		"woeid": 23424844
+	},
+	"Iceland": {
+		"Code1": "IS",
+		"woeid": 23424845
+	},
+	"Iran": {
+		"Code1": "IR",
+		"woeid": 23424851
+	},
+	"Iraq": {
+		"Code1": "IQ",
+		"woeid": 23424855
+	},
+	"Isle of Man": {
+		"Code1": "IM",
+		"woeid": 23424847
+	},
+	"Jamaica": {
+		"Code1": "JM",
+		"woeid": 23424858
+	},
+	"Jersey": {
+		"Code1": "JE",
+		"woeid": 23424857
+	},
+	"Kazakhstan": {
+		"Code1": "KZ",
+		"woeid": 23424871
+	},
+	"Kiribati": {
+		"Code1": "KI",
+		"woeid": 23424867
+	},
+	"Kosovo": {
+		"Code1": "KV",
+		"woeid": null
+	},
+	"Kyrgyzstan": {
+		"Code1": "KG",
+		"woeid": 23424864
+	},
+	"Laos": {
+		"Code1": "LA",
+		"woeid": 23424872
+	},
+	"Lesotho": {
+		"Code1": "LS",
+		"woeid": 23424880
+	},
+	"Liberia": {
+		"Code1": "LR",
+		"woeid": 23424876
+	},
+	"Libya": {
+		"Code1": "LY",
+		"woeid": 23424882
+	},
+	"Liechtenstein": {
+		"Code1": "LI",
+		"woeid": 23424879
+	},
+	"Lithuania": {
+		"Code1": "LT",
+		"woeid": 23424875
+	},
+	"Luxembourg": {
+		"Code1": "LU",
+		"woeid": 23424881
+	},
+	"Macao": {
+		"Code1": "MO",
+		"woeid": 20070017
+	},
+	"Madagascar": {
+		"Code1": "MG",
+		"woeid": 23424883
+	},
+	"Malawi": {
+		"Code1": "MW",
+		"woeid": 23424889
+	},
+	"Maldives": {
+		"Code1": "MV",
+		"woeid": 23424899
+	},
+	"Mali": {
+		"Code1": "ML",
+		"woeid": 23424891
+	},
+	"Malta": {
+		"Code1": "MT",
+		"woeid": 23424897
+	},
+	"Marshall Islands": {
+		"Code1": "MH",
+		"woeid": 23424932
+	},
+	"Martinique": {
+		"Code1": "MQ",
+		"woeid": 23424884
+	},
+	"Mauritania": {
+		"Code1": "MR",
+		"woeid": 23424896
+	},
+	"Mauritius": {
+		"Code1": "MU",
+		"woeid": 23424894
+	},
+	"Mayotte": {
+		"Code1": "YT",
+		"woeid": 23424886
+	},
+	"Micronesia": {
+		"Code1": "FM",
+		"woeid": 23424815
+	},
+	"Moldova": {
+		"Code1": "MD",
+		"woeid": 23424885
+	},
+	"Monaco": {
+		"Code1": "MC",
+		"woeid": 23424892
+	},
+	"Mongolia": {
+		"Code1": "MN",
+		"woeid": 23424887
+	},
+	"Montenegro": {
+		"Code1": "ME",
+		"woeid": 20069817
+	},
+	"Montserrat": {
+		"Code1": "MS",
+		"woeid": 23424888
+	},
+	"Morocco": {
+		"Code1": "MA",
+		"woeid": 23424893
+	},
+	"Mozambique": {
+		"Code1": "MZ",
+		"woeid": 23424902
+	},
+	"Myanmar (Burma)": {
+		"Code1": "MM",
+		"woeid": 23424763
+	},
+	"Namibia": {
+		"Code1": "NA",
+		"woeid": 23424987
+	},
+	"Nauru": {
+		"Code1": "NR",
+		"woeid": 23424912
+	},
+	"Nepal": {
+		"Code1": "NP",
+		"woeid": 23424911
+	},
+	"New Caledonia": {
+		"Code1": "NC",
+		"woeid": 23424903
+	},
+	"Nicaragua": {
+		"Code1": "NI",
+		"woeid": 23424915
+	},
+	"Niger": {
+		"Code1": "NE",
+		"woeid": 23424906
+	},
+	"Niue": {
+		"Code1": "NU",
+		"woeid": 23424904
+	},
+	"Norfolk Island": {
+		"Code1": "NF",
+		"woeid": 23424905
+	},
+	"North Korea": {
+		"Code1": "KP",
+		"woeid": 23424865
+	},
+	"North Macedonia": {
+		"Code1": "MK",
+		"woeid": 23424890
+	},
+	"Northern Mariana Islands": {
+		"Code1": "MP",
+		"woeid": 23424788
+	},
+	"Palau": {
+		"Code1": "PW",
+		"woeid": 23424927
+	},
+	"Palestine": {
+		"Code1": "PS",
+		"woeid": 28289408
+	},
+	"Papua New Guinea": {
+		"Code1": "PG",
+		"woeid": 23424926
+	},
+	"Paraguay": {
+		"Code1": "PY",
+		"woeid": 23424917
+	},
+	"Pitcairn Islands": {
+		"Code1": "PN",
+		"woeid": 23424918
+	},
+	"Réunion": {
+		"Code1": "RE",
+		"woeid": 23424931
+	},
+	"Romania": {
+		"Code1": "RO",
+		"woeid": 23424933
+	},
+	"Rwanda": {
+		"Code1": "RW",
+		"woeid": 23424937
+	},
+	"Samoa": {
+		"Code1": "WS",
+		"woeid": 23424992
+	},
+	"San Marino": {
+		"Code1": "SM",
+		"woeid": 23424947
+	},
+	"São Tomé & Príncipe": {
+		"Code1": "ST",
+		"woeid": 23424966
+	},
+	"Senegal": {
+		"Code1": "SN",
+		"woeid": 23424943
+	},
+	"Serbia": {
+		"Code1": "RS",
+		"woeid": 20069818
+	},
+	"Seychelles": {
+		"Code1": "SC",
+		"woeid": 23424941
+	},
+	"Sierra Leone": {
+		"Code1": "SL",
+		"woeid": 23424946
+	},
+	"Sint Maarten": {
+		"Code1": "SX",
+		"woeid": 56558058
+	},
+	"Slovakia": {
+		"Code1": "SK",
+		"woeid": 23424877
+	},
+	"Slovenia": {
+		"Code1": "SI",
+		"woeid": 23424945
+	},
+	"Solomon Islands": {
+		"Code1": "SB",
+		"woeid": 23424766
+	},
+	"Somalia": {
+		"Code1": "SO",
+		"woeid": 23424949
+	},
+	"South Georgia & South Sandwich Islands": {
+		"Code1": "GS",
+		"woeid": 23424955
+	},
+	"South Korea": {
+		"Code1": "KR",
+		"woeid": 23424868
+	},
+	"South Sudan": {
+		"Code1": "SS",
+		"woeid": 56558055
+	},
+	"Sri Lanka": {
+		"Code1": "LK",
+		"woeid": 23424778
+	},
+	"St. Barthélemy": {
+		"Code1": "BL",
+		"woeid": 56042304
+	},
+	"St. Helena": {
+		"Code1": "SH",
+		"woeid": 23424944
+	},
+	"St. Kitts & Nevis": {
+		"Code1": "KN",
+		"woeid": 23424940
+	},
+	"St. Lucia": {
+		"Code1": "LC",
+		"woeid": 23424951
+	},
+	"St. Martin": {
+		"Code1": "MF",
+		"woeid": 56042305
+	},
+	"St. Pierre & Miquelon": {
+		"Code1": "PM",
+		"woeid": 24549828
+	},
+	"St. Vincent & Grenadines": {
+		"Code1": "VC",
+		"woeid": 23424981
+	},
+	"Sudan": {
+		"Code1": "SD",
+		"woeid": 23424952
+	},
+	"Suriname": {
+		"Code1": "SR",
+		"woeid": 23424913
+	},
+	"Svalbard & Jan Mayen": {
+		"Code1": "SJ",
+		"woeid": 28289413
+	},
+	"Syria": {
+		"Code1": "SY",
+		"woeid": 23424956
+	},
+	"Taiwan": {
+		"Code1": "TW",
+		"woeid": 23424971
+	},
+	"Tajikistan": {
+		"Code1": "TJ",
+		"woeid": 23424961
+	},
+	"Tanzania": {
+		"Code1": "TZ",
+		"woeid": 23424973
+	},
+	"Timor-Leste": {
+		"Code1": "TL",
+		"woeid": 23424968
+	},
+	"Togo": {
+		"Code1": "TG",
+		"woeid": 23424965
+	},
+	"Tokelau": {
+		"Code1": "TK",
+		"woeid": 23424963
+	},
+	"Tonga": {
+		"Code1": "TO",
+		"woeid": 23424964
+	},
+	"Trinidad & Tobago": {
+		"Code1": "TT",
+		"woeid": 23424958
+	},
+	"Tunisia": {
+		"Code1": "TN",
+		"woeid": 23424967
+	},
+	"Turkmenistan": {
+		"Code1": "TM",
+		"woeid": 23424972
+	},
+	"Turks & Caicos Islands": {
+		"Code1": "TC",
+		"woeid": 23424962
+	},
+	"Tuvalu": {
+		"Code1": "TV",
+		"woeid": 23424970
+	},
+	"U.S. Outlying Islands": {
+		"Code1": "UM",
+		"woeid": 28289407
+	},
+	"U.S. Virgin Islands": {
+		"Code1": "VI",
+		"woeid": 12485810
+	},
+	"Uganda": {
+		"Code1": "UG",
+		"woeid": 23424974
+	},
+	"Uruguay": {
+		"Code1": "UY",
+		"woeid": 23424979
+	},
+	"Uzbekistan": {
+		"Code1": "UZ",
+		"woeid": 23424980
+	},
+	"Vanuatu": {
+		"Code1": "VU",
+		"woeid": 23424907
+	},
+	"Vatican City": {
+		"Code1": "VA",
+		"woeid": 23424986
+	},
+	"Wallis & Futuna": {
+		"Code1": "WF",
+		"woeid": 23424989
+	},
+	"Western Sahara": {
+		"Code1": "EH",
+		"woeid": 23424990
+	},
+	"Yemen": {
+		"Code1": "YE",
+		"woeid": 23425002
+	},
+	"Zambia": {
+		"Code1": "ZM",
+		"woeid": 23425003
+	},
+	"Zimbabwe": {
+		"Code1": "ZW",
+		"woeid": 23425004
+	}
+}

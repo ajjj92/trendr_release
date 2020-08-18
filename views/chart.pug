@@ -1,0 +1,14 @@
+extends layout
+block content   
+    script(src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0")
+    script.
+            window.onload = function() {
+            var ctx = document.getElementById("myChart").getContext('2d');
+            var data = !{data}
+            var chart = new Chart(ctx, data);
+            }
+    div(class='container')
+        h1(class="center") #{title}
+            div(class='row')
+                div(class='col s6')
+                    canvas(width="400" height="400" id="myChart")

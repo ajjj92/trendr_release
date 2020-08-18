@@ -1,0 +1,17 @@
+extends index
+
+block results
+    ul(class='collapsible')
+        each item,index in dataList
+            li
+                div(class='collapsible-header')
+                    a(href=`${item.url}`) #{item.hits}
+                    img(src=`${item.pic}` class='responsive-img circle')
+                    span(class='title center') #{item.title}
+                div(class='collapsible-body')
+                    each search in item.related
+                        span  #{search.query}
+                    else
+                        p No related searches
+        else
+            p No feed
