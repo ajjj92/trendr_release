@@ -94,8 +94,10 @@ class UlGoogle extends React.Component {
                         return <div className='collection-item' key={index}>
                         <div className='row'>
                         <div className='col s2'>
-                        <img src={item.pic} className='responsive-img circle'></img>
-                        </div>
+				<a href={item.url} target='blank'>
+                        		<img src={item.pic} className='responsive-img circle'></img>
+                		</a>        
+			</div>
                         <div className='col s8'>
                         <h5>{item.title} </h5>
                         <div>  
