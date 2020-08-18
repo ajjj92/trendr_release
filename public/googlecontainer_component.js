@@ -137,7 +137,11 @@ var UlGoogle = function (_React$Component) {
                                     React.createElement(
                                         "div",
                                         { className: "col s2" },
-                                        React.createElement("img", { src: item.pic, className: "responsive-img circle" })
+                                        React.createElement(
+                                            "a",
+                                            { href: item.url, target: "blank" },
+                                            React.createElement("img", { src: item.pic, className: "responsive-img circle" })
+                                        )
                                     ),
                                     React.createElement(
                                         "div",
